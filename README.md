@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tamino
 ==============================================================================================================================
 
-I've been learning to code since 2018. I started with Python, now I'm learning C# and also trying myself with Vue.
+I've been actively learning Python since 2018 and recently started exploring C# and Vue to further expand my programming skills.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [contact@nonodev.xyz](mailto:contact@nonodev.xyz)
